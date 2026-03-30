@@ -4,6 +4,8 @@
 > Un juego educativo en Canvas (HTML5 + JavaScript vanilla) para desarrollar habilidades de evaluación crítica de información.
 
 [![Jugar ahora](https://img.shields.io/badge/🎮%20Jugar%20ahora-GitHub%20Pages-6366f1?style=for-the-badge)](https://davidangarita1.github.io/source_validation_game/)
+
+![Detective de Fuentes - Cover](docs/img/cover.png)
 [![Licencia MIT](https://img.shields.io/badge/Licencia-MIT-10b981?style=flat-square)](LICENSE)
 [![JavaScript](https://img.shields.io/badge/JavaScript-Vanilla-f59e0b?style=flat-square&logo=javascript)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 
